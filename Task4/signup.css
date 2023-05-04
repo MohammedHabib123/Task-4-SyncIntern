@@ -1,0 +1,115 @@
+*{
+  font-family: "Rubik", sans-serif;
+}
+.SignUp{
+    display: flex;
+    background-color: #273238;
+}
+.SignUp .img img{
+    height: 464px;
+    margin-top: 83px;
+    width: 450px;
+    margin-left: 80px;
+}
+  .SignUp .form{
+    border-radius: 28px;
+    padding-top: 109px;
+    width: 327px;
+    margin-left: 350px;
+    height: 498px;
+    /* align-content: center; */
+    border: 1px solid transparent;
+    background-color: #385a64;
+  }
+  .SignUp .form .back{
+    text-align: center;
+  margin-right: -12px;
+  margin-top: 458px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+  margin-left: -52px;
+  border: 1px solid transparent;
+  background-color: #273238;
+  border-radius: 5px;
+  color: white;
+  width: 126px;
+  height: 20px;
+  }
+  
+  .SignUp .form .p1{
+    font-size: larger;
+        margin-top: -35px;
+        text-align: center;
+        margin-bottom: 50px;
+        color: white;
+  }
+  .SignUp .form{
+  
+      text-align: center;
+  }
+  .SignUp .form form .in1{
+    height: 32px;
+        text-align: center;
+        margin-bottom: 30px;
+        border-radius: 37px;
+        width: 201px;
+        border-color: transparent;
+  }
+  .SignUp .form form .in2{
+    height: 32px;
+        text-align: center;
+        margin-bottom: 30px;
+        border-radius: 37px;
+        width: 201px;
+        border-color: transparent;
+  }
+  .SignUp .form form .in3{
+    height: 32px;
+        text-align: center;
+        margin-bottom: 30px;
+        border-radius: 37px;
+        width: 201px;
+        border-color: transparent;
+  }
+  .SignUp .form form .in4{
+    height: 32px;
+  text-align: center;
+  margin-bottom: 30px;
+  width: 201px;
+  border-radius: 28px;
+  border-color: transparent;
+  
+  }
+  .SignUp .form form .in5{
+    width: 84px;
+        height: 26px;
+        border-color: transparent;
+        border-radius: 19px;
+        cursor: pointer;
+  }
+  .SignUp .form .p2{
+  
+    margin-top: 30px;
+        text-align: center;
+        color: white;
+  }
+  .SignUp .form .p2 .link{
+  color: #273238;
+  text-decoration: none;
+  }
+  
+  .SignUp .form form .radio{
+    margin-top: -10px;
+    margin-bottom: 10px;
+  }
+  .SignUp .form form .radio label{
+    font-size: 1.6rem;
+    color: var(--light-white);
+    margin-left: .5rem;
+    cursor: pointer;
+  }
+  .SignUp .form form .radio #admin{
+  margin-left: 2rem;
+  }
+  
